@@ -1,0 +1,9 @@
+*.class
+*.apk
+bin/
+gen/
+.settings/
+proguard/
+*.classpath
+/doExt_do_Unionpay/do_Unionpay.zip
+/doExt_do_Unionpay/libs/docore.jar
